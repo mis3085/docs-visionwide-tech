@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>더블 컬럼 가공 솔루션 전문성 on EXAMPLE</title>
-    <link>//localhost:1313/ko/</link>
-    <description>Recent content in 더블 컬럼 가공 솔루션 전문성 on EXAMPLE</description>
+    <title>더블 컬럼 가공 솔루션 전문성 on VISION WIDE TECH</title>
+    <link>https://smp.visionwide-tech.com/ko/</link>
+    <description>Recent content in 더블 컬럼 가공 솔루션 전문성 on VISION WIDE TECH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <copyright>© 2025 www.example.com</copyright>
-    <atom:link href="//localhost:1313/ko/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 www.visionwide-tech.com</copyright>
+    <atom:link href="https://smp.visionwide-tech.com/ko/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>전 세계 판매 및 서비스 네트워크 개요</title>
-      <link>//localhost:1313/ko/about-us/global/</link>
+      <link>https://smp.visionwide-tech.com/ko/about-us/global/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/ko/about-us/global/</guid>
+      <guid>https://smp.visionwide-tech.com/ko/about-us/global/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;전 세계 판매 및 서비스 네트워크 개요 
     &lt;div id=&#34;전-세계-판매-및-서비스-네트워크-개요&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -31,10 +31,10 @@
     
     <item>
       <title>품질 및 경영 시스템에 대한 종합적 접근</title>
-      <link>//localhost:1313/ko/about-us/quality-01/</link>
+      <link>https://smp.visionwide-tech.com/ko/about-us/quality-01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/ko/about-us/quality-01/</guid>
+      <guid>https://smp.visionwide-tech.com/ko/about-us/quality-01/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;품질 및 경영 시스템에 대한 종합적 접근 
     &lt;div id=&#34;품질-및-경영-시스템에-대한-종합적-접근&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

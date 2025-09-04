@@ -3,518 +3,518 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/pt/work-01/</loc>
+    <loc>https://smp.visionwide-tech.com/pt/work-01/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/work-01/"
+      href="https://smp.visionwide-tech.com/en/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="//localhost:1313/de/work-01/"
+      href="https://smp.visionwide-tech.com/de/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/work-01/"
+      href="https://smp.visionwide-tech.com/es/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/work-01/"
+      href="https://smp.visionwide-tech.com/fr/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="//localhost:1313/it/work-01/"
+      href="https://smp.visionwide-tech.com/it/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="//localhost:1313/ru/work-01/"
+      href="https://smp.visionwide-tech.com/ru/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="//localhost:1313/ar/work-01/"
+      href="https://smp.visionwide-tech.com/ar/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="//localhost:1313/hi/work-01/"
+      href="https://smp.visionwide-tech.com/hi/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/work-01/"
+      href="https://smp.visionwide-tech.com/ja/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="//localhost:1313/ko/work-01/"
+      href="https://smp.visionwide-tech.com/ko/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="//localhost:1313/zh-tw/work-01/"
+      href="https://smp.visionwide-tech.com/zh-tw/work-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="//localhost:1313/pt/work-01/"
+      href="https://smp.visionwide-tech.com/pt/work-01/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt/contact-us/</loc>
+    <loc>https://smp.visionwide-tech.com/pt/contact-us/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/contact-us/"
+      href="https://smp.visionwide-tech.com/en/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="//localhost:1313/de/contact-us/"
+      href="https://smp.visionwide-tech.com/de/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/contact-us/"
+      href="https://smp.visionwide-tech.com/es/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/contact-us/"
+      href="https://smp.visionwide-tech.com/fr/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="//localhost:1313/it/contact-us/"
+      href="https://smp.visionwide-tech.com/it/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="//localhost:1313/ru/contact-us/"
+      href="https://smp.visionwide-tech.com/ru/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="//localhost:1313/ar/contact-us/"
+      href="https://smp.visionwide-tech.com/ar/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="//localhost:1313/hi/contact-us/"
+      href="https://smp.visionwide-tech.com/hi/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/contact-us/"
+      href="https://smp.visionwide-tech.com/ja/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="//localhost:1313/ko/contact-us/"
+      href="https://smp.visionwide-tech.com/ko/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="//localhost:1313/zh-tw/contact-us/"
+      href="https://smp.visionwide-tech.com/zh-tw/contact-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="//localhost:1313/pt/contact-us/"
+      href="https://smp.visionwide-tech.com/pt/contact-us/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt/</loc>
+    <loc>https://smp.visionwide-tech.com/pt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/"
+      href="https://smp.visionwide-tech.com/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="//localhost:1313/de/"
+      href="https://smp.visionwide-tech.com/de/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/"
+      href="https://smp.visionwide-tech.com/es/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/"
+      href="https://smp.visionwide-tech.com/fr/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="//localhost:1313/it/"
+      href="https://smp.visionwide-tech.com/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="//localhost:1313/ru/"
+      href="https://smp.visionwide-tech.com/ru/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="//localhost:1313/ar/"
+      href="https://smp.visionwide-tech.com/ar/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="//localhost:1313/hi/"
+      href="https://smp.visionwide-tech.com/hi/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/"
+      href="https://smp.visionwide-tech.com/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="//localhost:1313/ko/"
+      href="https://smp.visionwide-tech.com/ko/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="//localhost:1313/zh-tw/"
+      href="https://smp.visionwide-tech.com/zh-tw/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="//localhost:1313/pt/"
+      href="https://smp.visionwide-tech.com/pt/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt/about-us/global/</loc>
+    <loc>https://smp.visionwide-tech.com/pt/about-us/global/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/about-us/global/"
+      href="https://smp.visionwide-tech.com/en/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="//localhost:1313/de/about-us/global/"
+      href="https://smp.visionwide-tech.com/de/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/about-us/global/"
+      href="https://smp.visionwide-tech.com/es/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/about-us/global/"
+      href="https://smp.visionwide-tech.com/fr/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="//localhost:1313/it/about-us/global/"
+      href="https://smp.visionwide-tech.com/it/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="//localhost:1313/ru/about-us/global/"
+      href="https://smp.visionwide-tech.com/ru/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="//localhost:1313/ar/about-us/global/"
+      href="https://smp.visionwide-tech.com/ar/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="//localhost:1313/hi/about-us/global/"
+      href="https://smp.visionwide-tech.com/hi/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/about-us/global/"
+      href="https://smp.visionwide-tech.com/ja/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="//localhost:1313/ko/about-us/global/"
+      href="https://smp.visionwide-tech.com/ko/about-us/global/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="//localhost:1313/pt/about-us/global/"
+      href="https://smp.visionwide-tech.com/pt/about-us/global/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt/news/</loc>
+    <loc>https://smp.visionwide-tech.com/pt/news/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/news/"
+      href="https://smp.visionwide-tech.com/en/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="//localhost:1313/de/news/"
+      href="https://smp.visionwide-tech.com/de/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/news/"
+      href="https://smp.visionwide-tech.com/es/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/news/"
+      href="https://smp.visionwide-tech.com/fr/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="//localhost:1313/it/news/"
+      href="https://smp.visionwide-tech.com/it/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="//localhost:1313/ru/news/"
+      href="https://smp.visionwide-tech.com/ru/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="//localhost:1313/ar/news/"
+      href="https://smp.visionwide-tech.com/ar/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="//localhost:1313/hi/news/"
+      href="https://smp.visionwide-tech.com/hi/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/news/"
+      href="https://smp.visionwide-tech.com/ja/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="//localhost:1313/ko/news/"
+      href="https://smp.visionwide-tech.com/ko/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="//localhost:1313/zh-tw/news/"
+      href="https://smp.visionwide-tech.com/zh-tw/news/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="//localhost:1313/pt/news/"
+      href="https://smp.visionwide-tech.com/pt/news/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt/products/</loc>
+    <loc>https://smp.visionwide-tech.com/pt/products/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/products/"
+      href="https://smp.visionwide-tech.com/en/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="//localhost:1313/de/products/"
+      href="https://smp.visionwide-tech.com/de/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/products/"
+      href="https://smp.visionwide-tech.com/es/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/products/"
+      href="https://smp.visionwide-tech.com/fr/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="//localhost:1313/it/products/"
+      href="https://smp.visionwide-tech.com/it/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="//localhost:1313/ru/products/"
+      href="https://smp.visionwide-tech.com/ru/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="//localhost:1313/ar/products/"
+      href="https://smp.visionwide-tech.com/ar/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="//localhost:1313/hi/products/"
+      href="https://smp.visionwide-tech.com/hi/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/products/"
+      href="https://smp.visionwide-tech.com/ja/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="//localhost:1313/ko/products/"
+      href="https://smp.visionwide-tech.com/ko/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="//localhost:1313/zh-tw/products/"
+      href="https://smp.visionwide-tech.com/zh-tw/products/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="//localhost:1313/pt/products/"
+      href="https://smp.visionwide-tech.com/pt/products/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt/about-us/quality-01/</loc>
+    <loc>https://smp.visionwide-tech.com/pt/about-us/quality-01/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/en/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="//localhost:1313/de/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/de/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/es/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/fr/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="//localhost:1313/it/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/it/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="//localhost:1313/ru/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/ru/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="//localhost:1313/ar/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/ar/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="//localhost:1313/hi/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/hi/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/ja/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="//localhost:1313/ko/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/ko/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="//localhost:1313/zh-tw/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/zh-tw/about-us/quality-01/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="//localhost:1313/pt/about-us/quality-01/"
+      href="https://smp.visionwide-tech.com/pt/about-us/quality-01/"
     />
   </url>
   <url>
-    <loc>//localhost:1313/pt/about-us/</loc>
+    <loc>https://smp.visionwide-tech.com/pt/about-us/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/en/about-us/"
+      href="https://smp.visionwide-tech.com/en/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="de"
-      href="//localhost:1313/de/about-us/"
+      href="https://smp.visionwide-tech.com/de/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="//localhost:1313/es/about-us/"
+      href="https://smp.visionwide-tech.com/es/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="//localhost:1313/fr/about-us/"
+      href="https://smp.visionwide-tech.com/fr/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="//localhost:1313/it/about-us/"
+      href="https://smp.visionwide-tech.com/it/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="//localhost:1313/ru/about-us/"
+      href="https://smp.visionwide-tech.com/ru/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="hi"
-      href="//localhost:1313/hi/about-us/"
+      href="https://smp.visionwide-tech.com/hi/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/about-us/"
+      href="https://smp.visionwide-tech.com/ja/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ar"
-      href="//localhost:1313/ar/about-us/"
+      href="https://smp.visionwide-tech.com/ar/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ko"
-      href="//localhost:1313/ko/about-us/"
+      href="https://smp.visionwide-tech.com/ko/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-tw"
-      href="//localhost:1313/zh-tw/about-us/"
+      href="https://smp.visionwide-tech.com/zh-tw/about-us/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="//localhost:1313/pt/about-us/"
+      href="https://smp.visionwide-tech.com/pt/about-us/"
     />
   </url>
 </urlset>

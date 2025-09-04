@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Experiencia en Soluciones de Maquinado de Doble Columna on EXAMPLE</title>
-    <link>//localhost:1313/es/</link>
-    <description>Recent content in Experiencia en Soluciones de Maquinado de Doble Columna on EXAMPLE</description>
+    <title>Experiencia en Soluciones de Maquinado de Doble Columna on VISION WIDE TECH</title>
+    <link>https://smp.visionwide-tech.com/es/</link>
+    <description>Recent content in Experiencia en Soluciones de Maquinado de Doble Columna on VISION WIDE TECH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>© 2025 www.example.com</copyright>
-    <atom:link href="//localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 www.visionwide-tech.com</copyright>
+    <atom:link href="https://smp.visionwide-tech.com/es/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Resumen de la Red Mundial de Ventas y Servicio</title>
-      <link>//localhost:1313/es/about-us/global/</link>
+      <link>https://smp.visionwide-tech.com/es/about-us/global/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/about-us/global/</guid>
+      <guid>https://smp.visionwide-tech.com/es/about-us/global/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Resumen de la Red Mundial de Ventas y Servicio 
     &lt;div id=&#34;resumen-de-la-red-mundial-de-ventas-y-servicio&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -31,10 +31,10 @@
     
     <item>
       <title>Enfoque Integral a la Calidad y Sistemas de Gestión</title>
-      <link>//localhost:1313/es/about-us/quality-01/</link>
+      <link>https://smp.visionwide-tech.com/es/about-us/quality-01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/es/about-us/quality-01/</guid>
+      <guid>https://smp.visionwide-tech.com/es/about-us/quality-01/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Enfoque Integral a la Calidad y Sistemas de Gestión 
     &lt;div id=&#34;enfoque-integral-a-la-calidad-y-sistemas-de-gestión&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
